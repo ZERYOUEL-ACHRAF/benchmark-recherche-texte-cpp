@@ -1,6 +1,7 @@
 ﻿*.exe
 *.o
 *.obj
+*.d
 gdbfull.txt
 session_*.txt
 test.txt
